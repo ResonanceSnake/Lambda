@@ -15,7 +15,13 @@ let main argv =
     
     printfn "%s" (If(True)("TRUE")("oops.."))
     printfn "%s" (If(False)("oops")("FALSE"))
+    
+    let rec Omega x acc = 
+        printfn "%i" acc 
+        Omega x (acc + 1)
 
+    //Omega Omega 0
+    //runs forever
 
     Console.WriteLine("Press any key...")
     Console.ReadKey() |> ignore
