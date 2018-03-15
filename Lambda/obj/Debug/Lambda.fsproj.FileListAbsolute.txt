@@ -1,0 +1,11 @@
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\Lambda.exe.config
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\Lambda.XML
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\Lambda.exe
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\Lambda.pdb
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\FSharp.Core.dll
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\System.ValueTuple.dll
+E:\GitRepos\Lambda\Lambda\Lambda\bin\Debug\FSharp.Core.xml
+E:\GitRepos\Lambda\Lambda\Lambda\obj\Debug\Lambda.fsprojResolveAssemblyReference.cache
+E:\GitRepos\Lambda\Lambda\Lambda\obj\Debug\Lambda.fsproj.CopyComplete
+E:\GitRepos\Lambda\Lambda\Lambda\obj\Debug\Lambda.exe
+E:\GitRepos\Lambda\Lambda\Lambda\obj\Debug\Lambda.pdb
